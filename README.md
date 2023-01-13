@@ -1,2 +1,2 @@
 # beatMixer
- Beat Mixing Project (Full-stack functionality
+ Beat Mixing Project (Full-stack functionality)
