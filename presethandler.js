@@ -34,3 +34,4 @@ const presetHandler = (method, index, newPresetArray) => {
 }
 
 module.exports = presetHandler;
+
